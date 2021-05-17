@@ -1,0 +1,24 @@
+1. git init
+2. git status
+3. git add -A or git add file name
+4. git commit -m "______"
+5. git log ( see commit)
+6. git lop -p -1 ( see one by one commit)
+7. touch ( creating a file)
+8. git checkout -f ( check the file and remove all changes )
+9. git checkout file ( saprate file)
+10. git diff ( working directry to main diretry)
+11. git commit -a -m "___"( add and commit file)
+13. git rm file name ( removew the file)
+14. git rm --cached file ( remove from the system)
+15. .gitigor ( in this will use any word and we should not use any word 
+for example "proccesing" this word we take in this file)
+16. git branch ( check branch)
+17. git branch apple1 ( creast apple1 branch)
+18. git checkout apple1 ( we are in aplle1 branch)
+19. git checkout master ( we are in master branch )
+20. git merge apple1 ( merge in master branch)
+#creat repositry
+21. git remote
+22. git push -u origin master
+###done##
